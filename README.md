@@ -1,0 +1,1 @@
+Computational Biology Exercise - applying classical ML, deep learning, and autoencoder models on CCLE multiomic expression to predict Lapatinib response for cell lines screened in GDSC, and understand the biological features that drive the prediction.
